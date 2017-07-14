@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14-mrt-2014, 22:24:32
+    Author     : Stefan
+*/
+
+@media (max-width: 768px) {
+    .magage-btn {
+        margin-top: 10px;
+        width: 100%;
+    }
+}
+
+table.score .form-group {
+    margin-bottom: 0px !important;
+}
+
+div.thumbnail.subpoules{
+    border-top: none;
+    border-radius: 0px;
+}
+
+table.subpoules tbody.ui-sortable tr td{
+    /*vertical-align:middle;*/
+}
+

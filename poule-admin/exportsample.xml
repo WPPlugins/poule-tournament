@@ -1,0 +1,12 @@
+<poule_export>
+    <matches>
+        <group phase="*slug*" phaseid="*id*" name="">
+            <match id="" country1="" country2="">*score*</match>
+        </group>
+    </matches>
+    <score>
+        <user id="">
+            <phase id="">*score*</phase>
+        </user>
+    </score>
+</poule_export>

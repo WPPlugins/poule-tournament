@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 1-mrt-2014, 15:00:58
+    Author     : Stefan
+*/
+.form-succes{
+	border-color: green !important;
+}
+
+.form-error{
+	border-color: red !important;
+}
+
+.form-warning{
+	border-color: orange !important;
+}
+
+div.form-field .poule_check{
+    width: 14px;
+}
+
+table.country_page_matches thead tr th.column-date{
+    width: 200px;
+}
+
+#dashboard-widgets-wrap #dashboard-widgets #postbox-container-1 #normal-sortables #poule-tournament-2{
+    /*background-color: blue;*/
+    padding: 0px !important;
+}
+
+
+#dashboard-widgets-wrap #dashboard-widgets #postbox-container-1 #normal-sortables #poule-tournament-2 div div table.dashboard tfoot, table.dashboard tfoot{
+    display: none;
+    /*background-color: blue;*/
+    width: 100%;
+}

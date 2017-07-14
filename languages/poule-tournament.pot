@@ -1,0 +1,673 @@
+#. Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Poule tournament\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sun Apr 13 2014 15:35:12 GMT+0200 (West-Europa (zomertijd))\n"
+"POT-Revision-Date: Tue Jun 10 2014 19:29:14 GMT+0200 (West-Europa (zomertijd))\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../poule-tournament.php:102 ../poule-admin/template/matches/home.php:19
+msgid "Matches"
+msgstr ""
+
+#: ../poule-tournament.php:102 ../poule-admin/template/official-result/home.php:20
+msgid "Official Result"
+msgstr ""
+
+#: ../poule-tournament.php:102
+msgid "Import-Export"
+msgstr ""
+
+#: ../poule-tournament.php:113 ../poule-tournament.php:113
+msgid "Poule settings"
+msgstr ""
+
+#: ../poule-admin/Matches.php:908 ../poule-admin/Matches.php:953 ../poule-admin/Matches_backup.php:947 ../poule-admin/Matches_backup.php:991
+msgid "First"
+msgstr ""
+
+#: ../poule-admin/Matches.php:908 ../poule-admin/Matches.php:953 ../poule-admin/Matches_backup.php:947 ../poule-admin/Matches_backup.php:991
+msgid "Winnar"
+msgstr ""
+
+#: ../poule-admin/Matches.php:909 ../poule-admin/Matches.php:954 ../poule-admin/Matches_backup.php:948 ../poule-admin/Matches_backup.php:992
+msgid "Second"
+msgstr ""
+
+#: ../poule-admin/Matches.php:909 ../poule-admin/Matches.php:954 ../poule-admin/Matches_backup.php:948 ../poule-admin/Matches_backup.php:992
+msgid "Loser"
+msgstr ""
+
+#: ../poule-admin/settings.php:156
+msgid "Email from:"
+msgstr ""
+
+#: ../poule-admin/settings.php:162
+msgid "Email from name:"
+msgstr ""
+
+#: ../poule-admin/settings.php:168
+msgid "Email title for invitation a user for a subpoule:"
+msgstr ""
+
+#: ../poule-admin/settings.php:174
+msgid "Invitation subpoule email content"
+msgstr ""
+
+#: ../poule-admin/settings.php:180
+msgid "Email title for invitation a user for a account:"
+msgstr ""
+
+#: ../poule-admin/settings.php:186
+msgid "Invitation user email content"
+msgstr ""
+
+#: ../poule-admin/settings.php:194
+msgid "Activate Sub-poules"
+msgstr ""
+
+#: ../poule-admin/settings.php:199
+msgid "Subpoule email from"
+msgstr ""
+
+#: ../poule-admin/settings.php:204
+msgid "Invite people to also start"
+msgstr ""
+
+#: ../poule-admin/settings.php:209
+msgid "Add subpoule default poule"
+msgstr ""
+
+#: ../poule-admin/settings.php:216
+msgid "Thank you message"
+msgstr ""
+
+#: ../poule-admin/settings.php:220
+msgid "Redirect to the thank you page"
+msgstr ""
+
+#: ../poule-admin/settings.php:226
+msgid "Time that the users have to change their predicition"
+msgstr ""
+
+#: ../poule-admin/settings.php:230
+msgid "Users can 1 times set their prediction"
+msgstr ""
+
+#: ../poule-admin/settings.php:242
+msgid "Official score"
+msgstr ""
+
+#: ../poule-admin/settings.php:249
+msgid "My prediction"
+msgstr ""
+
+#: ../poule-admin/settings.php:256
+msgid "Podium"
+msgstr ""
+
+#: ../poule-admin/settings.php:263 ../template/subpoules/home.php:7 ../classes/post-types.php:87 ../classes/post-types.php:101
+msgid "Subpoules"
+msgstr ""
+
+#: ../poule-admin/settings.php:273
+msgid "Delete the phases"
+msgstr ""
+
+#: ../poule-admin/settings.php:274 ../poule-admin/settings.php:295 ../poule-admin/settings.php:302 ../poule-admin/template/matches/edit.php:30 ../template/subpoules/subpoules.php:26 ../template/email/invitation-join.php:17 ../hooks/poule-ajax.php:428
+msgid "Delete"
+msgstr ""
+
+#: ../poule-admin/settings.php:280
+msgid "Add wk phases"
+msgstr ""
+
+#: ../poule-admin/settings.php:281 ../poule-admin/settings.php:288
+msgid "Add phases"
+msgstr ""
+
+#: ../poule-admin/settings.php:287
+msgid "Add ek phases"
+msgstr ""
+
+#: ../poule-admin/settings.php:294
+msgid "Delete official result"
+msgstr ""
+
+#: ../poule-admin/settings.php:301
+msgid "Delete user predictions"
+msgstr ""
+
+#: ../poule-admin/OLD_Matches.php:66 ../poule-admin/template/matches/auto.php:36 ../poule-admin/template/matches/add.php:30 ../template/subpoules/own.php:40 ../template/subpoules/own.php:100
+msgid "Add"
+msgstr ""
+
+#: ../poule-admin/OLD_Matches.php:68 ../poule-admin/OLD_Matches.php:74 ../poule-admin/OLD_Matches.php:81
+msgid "Green"
+msgstr ""
+
+#: ../poule-admin/OLD_Matches.php:68 ../poule-admin/OLD_Matches.php:74
+msgid "The group and matches are saved."
+msgstr ""
+
+#: ../poule-admin/OLD_Matches.php:69 ../poule-admin/OLD_Matches.php:75 ../poule-admin/OLD_Matches.php:82
+msgid "Red"
+msgstr ""
+
+#: ../poule-admin/OLD_Matches.php:69
+msgid ""
+"There is a error.<ul><li>Wrong or no group name</li><li>Wrong date or "
+"time</li></ul>"
+msgstr ""
+
+#: ../poule-admin/OLD_Matches.php:72 ../template/subpoules/own.php:32 ../classes/post-types.php:60 ../classes/post-types.php:91
+msgid "Edit"
+msgstr ""
+
+#: ../poule-admin/OLD_Matches.php:75 ../poule-admin/OLD_Matches.php:82
+msgid ""
+"There is a error. And the saved date will be show.<ul><li>Wrong or no group "
+"name</li><li>Wrong date or time</li></ul>"
+msgstr ""
+
+#: ../poule-admin/OLD_Matches.php:78
+msgid "Automatic"
+msgstr ""
+
+#: ../poule-admin/OLD_Matches.php:80
+msgid "Information"
+msgstr ""
+
+#: ../poule-admin/OLD_Matches.php:80
+msgid "Create fast all the matches for the next phase."
+msgstr ""
+
+#: ../poule-admin/OLD_Matches.php:81
+msgid "The changes are saved."
+msgstr ""
+
+#: ../poule-admin/template/error.php:17
+msgid "Group doesn't exist"
+msgstr ""
+
+#: ../poule-admin/template/dashboard/config.php:27
+msgid "default"
+msgstr ""
+
+#: ../poule-admin/template/matches/edit.php:18
+msgid "Edit match group"
+msgstr ""
+
+#: ../poule-admin/template/matches/edit.php:22 ../poule-admin/template/matches/auto.php:27 ../poule-admin/template/matches/add.php:24
+msgid "Type here the name of the group"
+msgstr ""
+
+#: ../poule-admin/template/matches/edit.php:29
+msgid "Save changes"
+msgstr ""
+
+#: ../poule-admin/template/matches/auto.php:19 ../poule-admin/template/matches/add.php:19
+msgid "Add match group"
+msgstr ""
+
+#: ../poule-admin/template/matches/home.php:20
+msgid "New Match"
+msgstr ""
+
+#: ../poule-admin/template/matches/home.php:22
+msgid "Auto Match"
+msgstr ""
+
+#: ../template/login.php:17
+msgid "Login is required to view this page"
+msgstr ""
+
+#: ../template/login.php:26
+msgid "Username"
+msgstr ""
+
+#: ../template/login.php:27
+msgid "Password"
+msgstr ""
+
+#: ../template/login.php:28
+msgid "Remember Me"
+msgstr ""
+
+#: ../template/login.php:29
+msgid "Log In"
+msgstr ""
+
+#: ../template/podium/podium.php:20 ../template/podium/podium.php:33 ../template/podium/podium-post.php:20 ../template/podium/podium-post.php:33
+msgid "Podium place"
+msgstr ""
+
+#: ../template/podium/podium.php:23 ../template/podium/podium.php:36 ../template/podium/podium-post.php:23 ../template/podium/podium-post.php:36
+msgid "Fullname"
+msgstr ""
+
+#: ../template/podium/podium.php:26 ../template/podium/podium.php:39 ../template/podium/podium-post.php:26 ../template/podium/podium-post.php:39 ../template/podium/user.php:14
+msgid "Points"
+msgstr ""
+
+#: ../template/podium/subpoules.php:23
+msgid "Default"
+msgstr ""
+
+#: ../template/podium/subpoules.php:34
+msgid "Manage own poules"
+msgstr ""
+
+#: ../template/podium/user.php:18
+msgid "Phase name"
+msgstr ""
+
+#: ../template/podium/user.php:19 ../template/podium/user.php:49 ../template/podium/user.php:51 ../template/podium/user.php:59 ../template/podium/user.php:61 ../template/my-prediction/score.php:33 ../template/my-prediction/score.php:35 ../template/my-prediction/score.php:43 ../template/my-prediction/score.php:45 ../template/official-result/score.php:27 ../template/official-result/score.php:29 ../template/official-result/score.php:37 ../template/official-result/score.php:39 ../template/score/official.php:27 ../template/score/official.php:29 ../template/score/official.php:37 ../template/score/official.php:39 ../template/score/official_1.php:44 ../template/score/official_1.php:46 ../template/score/own.php:29 ../template/score/own.php:31 ../template/score/own.php:39 ../template/score/own.php:41
+msgid "Score"
+msgstr ""
+
+#: ../template/podium/user.php:33
+msgid "Predictions"
+msgstr ""
+
+#: ../template/podium/user.php:47 ../template/podium/user.php:57 ../template/my-prediction/score.php:31 ../template/my-prediction/score.php:41 ../template/official-result/score.php:25 ../template/official-result/score.php:35 ../template/score/official.php:25 ../template/score/official.php:35 ../template/score/official_1.php:42 ../template/score/own.php:27 ../template/score/own.php:37
+msgid "Start Time"
+msgstr ""
+
+#: ../template/podium/user.php:48 ../template/podium/user.php:58 ../template/my-prediction/score.php:32 ../template/my-prediction/score.php:42 ../template/official-result/score.php:26 ../template/official-result/score.php:36 ../template/score/official.php:26 ../template/score/official.php:36 ../template/score/official_1.php:43 ../template/score/own.php:28 ../template/score/own.php:38
+msgid "Country 1"
+msgstr ""
+
+#: ../template/podium/user.php:52 ../template/podium/user.php:62 ../template/my-prediction/score.php:36 ../template/my-prediction/score.php:46 ../template/official-result/score.php:30 ../template/official-result/score.php:40 ../template/score/official.php:30 ../template/score/official.php:40 ../template/score/official_1.php:47 ../template/score/own.php:32 ../template/score/own.php:42
+msgid "Country 2"
+msgstr ""
+
+#: ../template/my-prediction/score.php:111 ../template/subpoules/own.php:128 ../template/subpoules/own.php:164 ../template/score/own.php:105
+msgid "Save"
+msgstr ""
+
+#: ../template/subpoules/invitations.php:13 ../template/subpoules/invitations.php:26
+msgid "Subpoule Name"
+msgstr ""
+
+#: ../template/subpoules/invitations.php:16 ../template/subpoules/invitations.php:29
+msgid "Invited By"
+msgstr ""
+
+#: ../template/subpoules/invitations.php:19 ../template/subpoules/invitations.php:32 ../template/subpoules/subpoules.php:10 ../template/subpoules/subpoules.php:17 ../template/subpoules/own.php:14 ../template/subpoules/own.php:22
+msgid "Actions"
+msgstr ""
+
+#: ../template/subpoules/invitations.php:44 ../template/email/invitation-user.php:16 ../template/email/invitation-join.php:16
+msgid "Accept"
+msgstr ""
+
+#: ../template/subpoules/invitations.php:45 ../hooks/poule-ajax.php:267
+msgid "Remove"
+msgstr ""
+
+#: ../template/subpoules/invitations.php:51
+msgid "No invitations"
+msgstr ""
+
+#: ../template/subpoules/subpoules.php:8 ../template/subpoules/subpoules.php:15 ../template/subpoules/own.php:11 ../template/subpoules/own.php:19 ../template/subpoules/own.php:109 ../template/subpoules/own.php:115
+msgid "Name"
+msgstr ""
+
+#: ../template/subpoules/subpoules.php:9 ../template/subpoules/subpoules.php:16
+msgid "From"
+msgstr ""
+
+#: ../template/subpoules/home.php:8
+msgid "Invitations"
+msgstr ""
+
+#: ../template/subpoules/home.php:10
+msgid "Own Subpoules"
+msgstr ""
+
+#: ../template/subpoules/own.php:12 ../template/subpoules/own.php:20
+msgid "Date Create"
+msgstr ""
+
+#: ../template/subpoules/own.php:13 ../template/subpoules/own.php:21
+msgid "Count Users"
+msgstr ""
+
+#: ../template/subpoules/own.php:48 ../template/subpoules/own.php:140
+msgid "Add a subpoule"
+msgstr ""
+
+#: ../template/subpoules/own.php:53 ../template/subpoules/own.php:85 ../template/subpoules/own.php:149
+msgid "General"
+msgstr ""
+
+#: ../template/subpoules/own.php:55 ../template/subpoules/own.php:87
+msgid "Subpoule name"
+msgstr ""
+
+#: ../template/subpoules/own.php:63
+msgid "Users can added by the edit page."
+msgstr ""
+
+#: ../template/subpoules/own.php:67 ../template/subpoules/own.php:127 ../template/subpoules/own.php:163
+msgid "Close"
+msgstr ""
+
+#: ../template/subpoules/own.php:68
+msgid "Add subpoule"
+msgstr ""
+
+#: ../template/subpoules/own.php:80
+msgid "Edit a subpoule"
+msgstr ""
+
+#: ../template/subpoules/own.php:90 ../template/subpoules/own.php:157
+msgid "Description"
+msgstr ""
+
+#: ../template/subpoules/own.php:94
+msgid "Users"
+msgstr ""
+
+#: ../template/subpoules/own.php:110 ../template/subpoules/own.php:116
+msgid "Status"
+msgstr ""
+
+#: ../template/subpoules/own.php:151
+msgid "Full name"
+msgstr ""
+
+#: ../template/subpoules/own.php:154
+msgid "Email"
+msgstr ""
+
+#: ../template/score/official_1.php:87 ../hooks/functions.php:1114 ../hooks/functions.php:1116
+msgid "No matches"
+msgstr ""
+
+#: ../template/email/invitation-user.php:2 ../template/email/invitation-join.php:2
+msgid "Dear: "
+msgstr ""
+
+#: ../classes/add-meta-boxes.php:61 ../classes/add-meta-boxes.php:100
+msgid "Number of groups in the phase"
+msgstr ""
+
+#: ../classes/add-meta-boxes.php:65 ../classes/add-meta-boxes.php:110
+msgid "Number of matches in one group"
+msgstr ""
+
+#: ../classes/add-meta-boxes.php:69 ../classes/add-meta-boxes.php:121
+msgid "Penalties for this phase?"
+msgstr ""
+
+#: ../classes/add-meta-boxes.php:170
+msgid "Users in the group"
+msgstr ""
+
+#: ../classes/post-types.php:56 ../classes/post-types.php:70
+msgid "Countries"
+msgstr ""
+
+#: ../classes/post-types.php:57
+msgid "Country"
+msgstr ""
+
+#: ../classes/post-types.php:58
+msgid "Add Country"
+msgstr ""
+
+#: ../classes/post-types.php:59
+msgid "Add New Country"
+msgstr ""
+
+#: ../classes/post-types.php:61
+msgid "Edit Country"
+msgstr ""
+
+#: ../classes/post-types.php:62
+msgid "New Country"
+msgstr ""
+
+#: ../classes/post-types.php:63
+msgid "All Countries"
+msgstr ""
+
+#: ../classes/post-types.php:64 ../classes/post-types.php:65
+msgid "View Country"
+msgstr ""
+
+#: ../classes/post-types.php:66
+msgid "Search Countries"
+msgstr ""
+
+#: ../classes/post-types.php:67
+msgid "No Countries found"
+msgstr ""
+
+#: ../classes/post-types.php:68
+msgid "No Countries found in the Trash"
+msgstr ""
+
+#: ../classes/post-types.php:75
+msgid "Here can you add new tournament phases"
+msgstr ""
+
+#: ../classes/post-types.php:88
+msgid "Subpoule"
+msgstr ""
+
+#: ../classes/post-types.php:89
+msgid "Add Subpoule"
+msgstr ""
+
+#: ../classes/post-types.php:90
+msgid "Add New Subpoule"
+msgstr ""
+
+#: ../classes/post-types.php:92
+msgid "Edit Subpoule"
+msgstr ""
+
+#: ../classes/post-types.php:93
+msgid "New Subpoule"
+msgstr ""
+
+#: ../classes/post-types.php:94
+msgid "All Subpoules"
+msgstr ""
+
+#: ../classes/post-types.php:95 ../classes/post-types.php:96
+msgid "View Subpoule"
+msgstr ""
+
+#: ../classes/post-types.php:97
+msgid "Search Subpoule"
+msgstr ""
+
+#: ../classes/post-types.php:98
+msgid "No Subpoules found"
+msgstr ""
+
+#: ../classes/post-types.php:99
+msgid "No Subpoules found in the Trash"
+msgstr ""
+
+#: ../classes/post-types.php:106
+msgid "Here can you add new subpoules"
+msgstr ""
+
+#: ../classes/post-types.php:131
+msgid "Phases"
+msgstr ""
+
+#: ../classes/post-types.php:132 ../classes/post-types.php:141
+msgid "Phase"
+msgstr ""
+
+#: ../classes/post-types.php:133
+msgid "Search Phases"
+msgstr ""
+
+#: ../classes/post-types.php:134
+msgid "All Phases"
+msgstr ""
+
+#: ../classes/post-types.php:135
+msgid "Parent Phase"
+msgstr ""
+
+#: ../classes/post-types.php:136
+msgid "Parent Phase:"
+msgstr ""
+
+#: ../classes/post-types.php:137
+msgid "Edit Phase"
+msgstr ""
+
+#: ../classes/post-types.php:138
+msgid "Update Phase"
+msgstr ""
+
+#: ../classes/post-types.php:139
+msgid "Add New Phase"
+msgstr ""
+
+#: ../classes/post-types.php:140
+msgid "New Phase Name"
+msgstr ""
+
+#: ../classes/profile_option.php:59
+msgid "Poule tournament"
+msgstr ""
+
+#: ../classes/profile_option.php:64
+msgid "Show on podium"
+msgstr ""
+
+#: ../hooks/functions.php:217
+msgid "You can change your prediction %s before the match"
+msgstr ""
+
+#: ../hooks/functions.php:219
+msgid "You can change your prediction %s before the first match"
+msgstr ""
+
+#: ../hooks/functions.php:221
+msgid "You can only enter one time your prediction"
+msgstr ""
+
+#: ../hooks/functions.php:250
+msgid "No matches in this tournament phase"
+msgstr ""
+
+#: ../hooks/functions.php:403
+msgid "You are now added to the subpoule"
+msgstr ""
+
+#: ../hooks/functions.php:413
+msgid "You have already accepted/remove this subpoule"
+msgstr ""
+
+#: ../hooks/functions.php:422
+msgid "For accept/remove this subpoule is a login required"
+msgstr ""
+
+#: ../hooks/functions.php:425
+msgid "Wrong url parameters"
+msgstr ""
+
+#: ../hooks/functions.php:1105 ../hooks/functions.php:1107 ../hooks/functions.php:1167
+msgid "No phase"
+msgstr ""
+
+#: ../hooks/functions.php:1135
+msgid "Login is required"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:261 ../hooks/poule-ajax.php:359 ../hooks/poule-ajax.php:392
+msgid "Open"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:264
+msgid "Accepted"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:351
+msgid "Invitation"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:361
+msgid "User do not exist"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:642 ../hooks/poule-ajax.php:703
+msgid "group"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:643 ../hooks/poule-ajax.php:711
+msgid "Group"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:649
+msgid "18e-final"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:650
+msgid "18e-Final"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:656 ../hooks/poule-ajax.php:704
+msgid "quarterfinals"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:657 ../hooks/poule-ajax.php:712
+msgid "Quarterfinals"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:663 ../hooks/poule-ajax.php:705
+msgid "semifinal"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:664 ../hooks/poule-ajax.php:713
+msgid "Semifinal"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:670 ../hooks/poule-ajax.php:706
+msgid "3rd-4th-place"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:671 ../hooks/poule-ajax.php:714
+msgid "3rd 4th Place"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:677 ../hooks/poule-ajax.php:707
+msgid "final"
+msgstr ""
+
+#: ../hooks/poule-ajax.php:678 ../hooks/poule-ajax.php:715
+msgid "Final"
+msgstr ""
+
+#: ../includes/shortcodes.php:484
+msgid "Please, Check your prediction again."
+msgstr ""
